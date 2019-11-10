@@ -1,0 +1,8 @@
+crete-react-app
+npm install bootstrap reactstrap --save
+import 'bootstrap/dist/css/bootstrap.min.css';
+npm start
+package.json = EventEmitter
+npm install EventEmitter --save
+
+No arquivo Kernel.php colar a seguinte porcaria: \App\Http\Middleware\CorsMiddleware::class,
